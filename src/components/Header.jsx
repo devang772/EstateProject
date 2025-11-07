@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './navbar'
+import Navbar from './Navbar2.jsx';
 import { motion } from "motion/react"  
 const Header = () => {
   return (
